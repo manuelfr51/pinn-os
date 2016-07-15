@@ -119,7 +119,7 @@
             "os_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/os.json/downloads",
             "partitions_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/partitions.json/downloads",
             "icon": "http://sourceforge.net/projects/pinn/files/os/retropie2/retropie2.png/downloads",
-            "marketing_info": "ttps://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
             "partition_setup": "http://sourceforge.net/projects/pinn/files/os/retropie2/partition_setup.sh/downloads",
             "nominal_size": 1600,
             "tarballs": [
