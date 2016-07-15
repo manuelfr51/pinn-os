@@ -98,7 +98,7 @@
             "os_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/os.json/download",
             "partitions_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/partitions.json/download",
             "icon": "http://sourceforge.net/projects/pinn/files/os/retropie1/retropie1.png/download",
-            "marketing_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/marketing.tar/download",
+            "marketing_info": "ttps://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
             "partition_setup": "http://sourceforge.net/projects/pinn/files/os/retropie1/partition_setup.sh/download",
             "nominal_size": 1600,
             "tarballs": [
@@ -116,15 +116,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/partitions.json",
-            "icon": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/retropie2.png",
-            "marketing_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/partition_setup.sh",
+            "os_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/os.json/downloads",
+            "partitions_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/partitions.json/downloads",
+            "icon": "http://sourceforge.net/projects/pinn/files/os/retropie2/retropie2.png/downloads",
+            "marketing_info": "ttps://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
+            "partition_setup": "http://sourceforge.net/projects/pinn/files/os/retropie2/partition_setup.sh/downloads",
             "nominal_size": 1600,
             "tarballs": [
-                "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/boot.tar.xz",
-                "http://downloads.sourceforge.net/projects/pinn/files/os/retropie2/retropie.tar.xz"
+                "http://sourceforge.net/projects/pinn/files/os/retropie2/boot.tar.xz/downloads",
+                "http://sourceforge.net/projects/pinn/files/os/retropie2/retropie.tar.xz/downloads"
             ]
         }
     ]
