@@ -116,15 +116,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/retropie2/os.json?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621431&use_mirror=jaist",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partitions.json?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621229&use_mirror=tenet",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie2.png?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621409&use_mirror=ufpr",
+            "os_info": "http://bitcoinmty.com/os/retropie2/os.json",
+            "partitions_info": "http://bitcoinmty.com/os/retropie2/partitions.json",
+            "icon": "http://bitcoinmty.com/os/retropie2/retropie2.png",
             "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partition_setup.sh?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621384&use_mirror=ufpr",
+            "partition_setup": "http://bitcoinmty.com/os/retropie2/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/retropie2/boot.tar.xz?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621309&use_mirror=superb-sea2",
-                "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie.tar.xz?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpinn%2Ffiles%2Fos%2Fretropie2%2F&ts=1468621344&use_mirror=heanet"
+                "http://bitcoinmty.com/os/retropie2/boot.tar.xz",
+                "http://bitcoinmty.com/os/retropie2/retropie.tar.xz"
             ]
         }
     ]
